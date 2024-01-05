@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\funciones\punto4\bin\Debug\net6.0\punto4.exe
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\funciones\punto4\bin\Debug\net6.0\punto4.deps.json
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\funciones\punto4\bin\Debug\net6.0\punto4.runtimeconfig.json
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\funciones\punto4\bin\Debug\net6.0\punto4.dll
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\funciones\punto4\bin\Debug\net6.0\punto4.pdb
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\funciones\punto4\obj\Debug\net6.0\punto4.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\funciones\punto4\obj\Debug\net6.0\punto4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\funciones\punto4\obj\Debug\net6.0\punto4.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\funciones\punto4\obj\Debug\net6.0\punto4.AssemblyInfo.cs
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\funciones\punto4\obj\Debug\net6.0\punto4.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\funciones\punto4\obj\Debug\net6.0\punto4.dll
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\funciones\punto4\obj\Debug\net6.0\refint\punto4.dll
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\funciones\punto4\obj\Debug\net6.0\punto4.pdb
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\funciones\punto4\obj\Debug\net6.0\punto4.genruntimeconfig.cache
+C:\Users\admin\Documents\Gabriel\Fundamentos programacion\funciones\punto4\obj\Debug\net6.0\ref\punto4.dll
